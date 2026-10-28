@@ -11,7 +11,7 @@
    * 詢問 Gotoh's 演算法初始值如何設定
      
 3. AI對話紀錄
-   * https://share.gemini.google/ERcEYMMSxqyk
+   * https://share.gemini.google/wtK8ZlSmRLTc
 
 4. 使用提示詞
    * 這段程式碼這樣寫有錯嗎
